@@ -4,6 +4,12 @@
 
 ![OmniD-Pod：让 Mac 更懂你的节奏，随手记录、暂存文件与分类归档](assets/github-cover.png)
 
+| 今日与灵感 · Today & Inspiration | 暂存文件 · File Shelf | 万有引力 · Archiving |
+| :---: | :---: | :---: |
+| [![今日与灵感：随手记录，按时提醒](assets/staging/feature-today.png)](assets/staging/feature-today.png) | [![暂存文件：拖入文件，随时取用](assets/staging/feature-shelf.png)](assets/staging/feature-shelf.png) | [![万有引力：归档文件，写入 Obsidian 索引](assets/staging/feature-gravity.png)](assets/staging/feature-gravity.png) |
+
+[分享卡 · Share card](assets/staging/social-preview.jpg)
+
 ## 简体中文
 
 免费的 macOS 刘海工具。把今日清单、灵感、暂存文件和万有引力归档放在随手可用的位置。
