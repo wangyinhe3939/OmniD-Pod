@@ -1,0 +1,414 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "offkey.cleaning.accessibility" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Accessibility" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "辅助功能" } }
+      }
+    },
+    "offkey.cleaning.active" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Cleaning mode is active" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "清洁模式已启动" } }
+      }
+    },
+    "offkey.cleaning.detail" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "The keyboard will be locked temporarily. The mouse and trackpad remain available." } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "键盘将暂时锁定，鼠标与触控板保持可用。" } }
+      }
+    },
+    "offkey.cleaning.duration" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Duration" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "持续时间" } }
+      }
+    },
+    "offkey.cleaning.granted" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Allowed" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "已允许" } }
+      }
+    },
+    "offkey.cleaning.inputMonitoring" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Input Monitoring" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "输入监控" } }
+      }
+    },
+    "offkey.cleaning.keyboardOnly" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Keyboard only" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "仅锁定键盘" } }
+      }
+    },
+    "offkey.cleaning.notGranted" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Not allowed" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "未允许" } }
+      }
+    },
+    "offkey.cleaning.permissions" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "System permissions" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "系统权限" } }
+      }
+    },
+    "offkey.cleaning.pointerAvailable" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Mouse and trackpad always remain available" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "鼠标与触控板始终可用" } }
+      }
+    },
+    "offkey.cleaning.ready" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Ready to clean" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "准备开始清洁" } }
+      }
+    },
+    "offkey.cleaning.refreshPermissions" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Refresh status" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "刷新状态" } }
+      }
+    },
+    "offkey.cleaning.remaining" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Time remaining" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "剩余时间" } }
+      }
+    },
+    "offkey.cleaning.requestPermissions" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Request required permissions" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "请求所需权限" } }
+      }
+    },
+    "offkey.cleaning.start" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Start cleaning mode" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "开始清洁模式" } }
+      }
+    },
+    "offkey.cleaning.stop" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Restore keyboard now" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "立即恢复键盘" } }
+      }
+    },
+    "offkey.common.ok" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "OK" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "好" } }
+      }
+    },
+    "offkey.menu.cleaning" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Keyboard Cleaning" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "键盘清洁" } }
+      }
+    },
+    "offkey.menu.naming" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Name It" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "起个名" } }
+      }
+    },
+    "offkey.menu.notes" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Notes" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "记事" } }
+      }
+    },
+    "offkey.naming.chooseFile" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Choose File…" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "选择文件…" } }
+      }
+    },
+    "offkey.naming.chooseFolder" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Choose Folder…" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "选择文件夹…" } }
+      }
+    },
+    "offkey.naming.cleaningDisabled" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Name It is unavailable while keyboard cleaning is active." } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "清洁模式期间起个名暂时不可用。" } }
+      }
+    },
+    "offkey.naming.destination" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Destination" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "目标位置" } }
+      }
+    },
+    "offkey.naming.drop" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Drop one file here, or choose a file" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "拖入一个文件，或点“选择文件…”" } }
+      }
+    },
+    "offkey.naming.duplicate" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "An identical file was found" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "发现完全相同文件" } }
+      }
+    },
+    "offkey.naming.errorTitle" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Name It" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "起个名" } }
+      }
+    },
+    "offkey.naming.keepDuplicate" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Keep another copy" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "仍然保留副本" } }
+      }
+    },
+    "offkey.naming.locations" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Recent / Pinned Locations" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "最近 / 固定位置" } }
+      }
+    },
+    "offkey.naming.move" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Rename and Move" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "改名并移动" } }
+      }
+    },
+    "offkey.naming.noFolder" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "No destination folder selected" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "尚未选择目标目录" } }
+      }
+    },
+    "offkey.naming.number" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Number" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "使用编号" } }
+      }
+    },
+    "offkey.naming.pin" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Pin Location" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "固定位置" } }
+      }
+    },
+    "offkey.naming.prefix" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Prefix" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "前缀" } }
+      }
+    },
+    "offkey.naming.preserveFormat" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Uses the detected file type and does not convert the file" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "按真实格式决定扩展名，不转换文件" } }
+      }
+    },
+    "offkey.naming.preview" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Enter a short name to preview" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "填写短名称后预览" } }
+      }
+    },
+    "offkey.naming.rename" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Rename Only" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "仅改名" } }
+      }
+    },
+    "offkey.naming.rescan" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Scan Again" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "重新扫描" } }
+      }
+    },
+    "offkey.naming.reveal" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Show in Finder" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "在 Finder 中显示" } }
+      }
+    },
+    "offkey.naming.revealDuplicate" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Show Identical File" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "定位相同文件" } }
+      }
+    },
+    "offkey.naming.rule" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Numbering Rule" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "编号规则" } }
+      }
+    },
+    "offkey.naming.scanPrompt" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Choose a folder to scan existing numbers" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "选择目录后扫描已有编号" } }
+      }
+    },
+    "offkey.naming.scanning" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Scanning" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "正在扫描" } }
+      }
+    },
+    "offkey.naming.shortName" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Short name, for example: front pocket" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "短名称，例如：正面插兜" } }
+      }
+    },
+    "offkey.naming.shortNameLabel" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Short name" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "短名称" } }
+      }
+    },
+    "offkey.naming.source" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Single File" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "单个文件" } }
+      }
+    },
+    "offkey.naming.unpin" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Unpin" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "取消固定" } }
+      }
+    },
+    "offkey.notes.add" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "New" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "新建" } }
+      }
+    },
+    "offkey.notes.addHint" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Create a blank note" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "新建一条空白记录" } }
+      }
+    },
+    "offkey.notes.content" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Content" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "内容" } }
+      }
+    },
+    "offkey.notes.copyAll" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Copy All" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "复制全部" } }
+      }
+    },
+    "offkey.notes.copyTitle" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Copy Title" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "复制标题" } }
+      }
+    },
+    "offkey.notes.empty" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "No Notes" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "没有记录" } }
+      }
+    },
+    "offkey.notes.errorTitle" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Notes" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "记事" } }
+      }
+    },
+    "offkey.notes.export" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Export JSON…" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "导出 JSON…" } }
+      }
+    },
+    "offkey.notes.import" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Import JSON…" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "导入 JSON…" } }
+      }
+    },
+    "offkey.notes.merge" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Add to Current Notes" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "加入当前记录" } }
+      }
+    },
+    "offkey.notes.moveToTrash" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Move to Trash" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "移到回收站" } }
+      }
+    },
+    "offkey.notes.records" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Notes" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "记录" } }
+      }
+    },
+    "offkey.notes.replace" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Replace Current Notes" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "替换当前记录" } }
+      }
+    },
+    "offkey.notes.restore" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Restore Note" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "放回记录" } }
+      }
+    },
+    "offkey.notes.restoreBackup" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Restore Pre-Import Backup" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "恢复导入前备份" } }
+      }
+    },
+    "offkey.notes.search" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Search titles and content" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "查找标题和内容" } }
+      }
+    },
+    "offkey.notes.title" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Title" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "标题" } }
+      }
+    },
+    "offkey.notes.titlePlaceholder" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Title" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "标题" } }
+      }
+    },
+    "offkey.notes.trash" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Trash" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "回收站" } }
+      }
+    },
+    "offkey.notes.untitled" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Untitled Note" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "未命名记录" } }
+      }
+    },
+    "offkey.settings.showShelfWhenEmpty" : {
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Show the Shelf tab when empty" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "空文件架也显示“文件暂存”标签" } }
+      }
+    }
+  },
+  "version" : "1.0"
+}

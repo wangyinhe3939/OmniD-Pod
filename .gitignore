@@ -1,0 +1,43 @@
+# Build products and local caches
+.build_tmp/
+.build/
+.swiftpm/
+DerivedData/
+build/
+*.app
+*.dSYM
+*.xcarchive
+*.ipa
+*.dmg
+
+# Xcode user state (shared project/scheme files and Package.resolved are source)
+**/xcuserdata/
+*.xcuserstate
+*.pbxuser
+*.xccheckout
+
+# Private local design history and recovery originals
+/.recovery/
+/design-qa/
+/DD-Notch-AppIcon-1024.png
+
+# Credentials and personal runtime files
+.env
+.env.*
+*.p12
+*.p8
+*.mobileprovision
+*.provisionprofile
+
+# Editor and Finder files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+*.log
+
+# Optional legacy dependency build products
+Pods/
+Carthage/Build/
