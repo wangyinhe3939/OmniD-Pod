@@ -1,5 +1,7 @@
 # OmniD-Pod
 
+![OmniD-Pod：让 Mac 更懂你的节奏，随手记录、暂存文件与分类归档](assets/github-cover.png)
+
 免费的 macOS 刘海工具。把今日清单、灵感、暂存文件和万有引力归档放在随手可用的位置。
 
 **免费使用、开放源码，无订阅、付费解锁或激活码。** 可选 Gemini 功能使用你自己的 API 密钥；Google 可能按你的账号方案收费，OmniD-Pod 不代收费用。
